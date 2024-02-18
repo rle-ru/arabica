@@ -1,0 +1,13 @@
+adresse 0: (args 28)
+LOAD_STR Entrez un premier nombre :\n   	15 1B
+adresse 29: (args 0)
+PRINT_STR									16
+adresse 30: (args 0)
+INPUT_VAL									13
+adresse 31: (args 0)
+LOAD_STR Entrez un operateur :\n   			15 16
+adresse 32: (args 0)
+PRINT_STR									16
+adresse 55: (args 0)
+INPUT_STR									17
+adresse 56: (args 0)
